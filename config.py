@@ -14,12 +14,12 @@ class Config:
     """Bot configuration class."""
     
     # Telegram Bot
-    BOT_TOKEN: str = os.getenv("BOT_TOKEN", "8438262815:AAEGT9VPoAlCBG1Osv4XglzcvVbWG0MjjwU")
+    BOT_TOKEN: str = os.getenv("BOT_TOKEN", "###")
     if not BOT_TOKEN:
         raise ValueError("BOT_TOKEN must be set in environment variables")
     
     # Admin Users
-    ADMIN_IDS_STR: str = os.getenv("ADMIN_IDS", "815055706")
+    ADMIN_IDS_STR: str = os.getenv("ADMIN_IDS", "###")
     ADMIN_IDS: List[int] = [
         int(id.strip()) 
         for id in ADMIN_IDS_STR.split(",") 
