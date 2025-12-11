@@ -1,0 +1,450 @@
+2025-12-11 21:28:31,862 - __main__ - INFO - Database initialized successfully
+2025-12-11 21:29:32,704 - __main__ - INFO - Database initialized successfully
+2025-12-11 21:29:57,718 - __main__ - INFO - Database initialized successfully
+2025-12-11 21:29:57,723 - __main__ - INFO - ==================================================
+2025-12-11 21:29:57,723 - __main__ - INFO - Starting YourShoes Telegram Bot
+2025-12-11 21:30:01,396 - __main__ - INFO - Bot username: @steprightbot
+2025-12-11 21:30:01,396 - __main__ - INFO - Admins configured: 1
+2025-12-11 21:30:01,396 - __main__ - INFO - Database: sqlite:///data/shop.db
+2025-12-11 21:30:01,396 - __main__ - INFO - ==================================================
+2025-12-11 21:30:01,396 - __main__ - INFO - Registering handlers...
+2025-12-11 21:30:01,398 - __main__ - INFO - All handlers registered
+2025-12-11 21:30:01,398 - __main__ - INFO - Starting polling mode...
+2025-12-11 21:38:05,350 - TeleBot - ERROR - Infinity polling: polling exited
+2025-12-11 21:38:05,350 - TeleBot - ERROR - Break infinity polling
+2025-12-11 21:39:48,629 - __main__ - INFO - Database initialized successfully
+2025-12-11 21:39:48,631 - __main__ - INFO - ==================================================
+2025-12-11 21:39:48,631 - __main__ - INFO - Starting YourShoes Telegram Bot
+2025-12-11 21:39:51,862 - __main__ - INFO - Bot username: @shoesbuytestbot
+2025-12-11 21:39:51,862 - __main__ - INFO - Admins configured: 1
+2025-12-11 21:39:51,862 - __main__ - INFO - Database: sqlite:///data/shop.db
+2025-12-11 21:39:51,862 - __main__ - INFO - ==================================================
+2025-12-11 21:39:51,862 - __main__ - INFO - Registering handlers...
+2025-12-11 21:39:51,862 - __main__ - INFO - All handlers registered
+2025-12-11 21:39:51,862 - __main__ - INFO - Starting polling mode...
+2025-12-11 21:41:32,753 - TeleBot - ERROR - Infinity polling: polling exited
+2025-12-11 21:41:32,754 - TeleBot - ERROR - Break infinity polling
+2025-12-11 21:47:13,973 - __main__ - INFO - Database initialized successfully
+2025-12-11 21:47:13,974 - __main__ - INFO - ==================================================
+2025-12-11 21:47:13,975 - __main__ - INFO - Starting YourShoes Telegram Bot
+2025-12-11 21:47:15,433 - __main__ - INFO - Bot username: @shoesbuytestbot
+2025-12-11 21:47:15,433 - __main__ - INFO - Admins configured: 1
+2025-12-11 21:47:15,433 - __main__ - INFO - Database: sqlite:///data/shop.db
+2025-12-11 21:47:15,433 - __main__ - INFO - ==================================================
+2025-12-11 21:47:15,433 - __main__ - INFO - Registering handlers...
+2025-12-11 21:47:15,433 - __main__ - INFO - All handlers registered
+2025-12-11 21:47:15,433 - __main__ - INFO - Starting polling mode...
+2025-12-11 21:52:48,681 - TeleBot - ERROR - Infinity polling: polling exited
+2025-12-11 21:52:48,681 - TeleBot - ERROR - Break infinity polling
+2025-12-11 22:09:49,157 - __main__ - INFO - Database initialized successfully
+2025-12-11 22:09:49,168 - __main__ - INFO - ==================================================
+2025-12-11 22:09:49,168 - __main__ - INFO - Starting YourShoes Telegram Bot
+2025-12-11 22:09:49,414 - __main__ - INFO - Bot username: @shoesbuytestbot
+2025-12-11 22:09:49,414 - __main__ - INFO - Admins configured: 1
+2025-12-11 22:09:49,414 - __main__ - INFO - Database: sqlite:///data/shop.db
+2025-12-11 22:09:49,414 - __main__ - INFO - ==================================================
+2025-12-11 22:09:49,414 - __main__ - INFO - Registering handlers...
+2025-12-11 22:09:49,414 - __main__ - INFO - All handlers registered
+2025-12-11 22:09:49,414 - __main__ - INFO - Starting polling mode...
+2025-12-11 22:12:12,815 - TeleBot - ERROR - Infinity polling: polling exited
+2025-12-11 22:12:12,816 - TeleBot - ERROR - Break infinity polling
+2025-12-11 22:13:27,879 - __main__ - INFO - Database initialized successfully
+2025-12-11 22:13:27,884 - __main__ - INFO - ==================================================
+2025-12-11 22:13:27,884 - __main__ - INFO - Starting YourShoes Telegram Bot
+2025-12-11 22:13:28,191 - __main__ - INFO - Bot username: @shoesbuytestbot
+2025-12-11 22:13:28,191 - __main__ - INFO - Admins configured: 1
+2025-12-11 22:13:28,191 - __main__ - INFO - Database: sqlite:///data/shop.db
+2025-12-11 22:13:28,191 - __main__ - INFO - ==================================================
+2025-12-11 22:13:28,191 - __main__ - INFO - Registering handlers...
+2025-12-11 22:13:28,191 - __main__ - INFO - All handlers registered
+2025-12-11 22:13:28,191 - __main__ - INFO - Starting polling mode...
+2025-12-11 22:19:07,978 - TeleBot - ERROR - Infinity polling: polling exited
+2025-12-11 22:19:07,978 - TeleBot - ERROR - Break infinity polling
+2025-12-11 22:21:13,613 - __main__ - INFO - Database initialized successfully
+2025-12-11 22:21:13,618 - __main__ - INFO - ==================================================
+2025-12-11 22:21:13,618 - __main__ - INFO - Starting YourShoes Telegram Bot
+2025-12-11 22:21:15,393 - __main__ - INFO - Bot username: @shoesbuytestbot
+2025-12-11 22:21:15,393 - __main__ - INFO - Admins configured: 1
+2025-12-11 22:21:15,393 - __main__ - INFO - Database: sqlite:///data/shop.db
+2025-12-11 22:21:15,393 - __main__ - INFO - ==================================================
+2025-12-11 22:21:15,393 - __main__ - INFO - Registering handlers...
+2025-12-11 22:21:15,394 - __main__ - INFO - All handlers registered
+2025-12-11 22:21:15,394 - __main__ - INFO - Starting polling mode...
+2025-12-11 22:21:22,125 - handlers.start - INFO - New user created: 815055706 (Maksym)
+2025-12-11 22:21:22,125 - handlers.start - INFO - User 815055706 started bot
+2025-12-11 22:21:28,159 - handlers.start - INFO - User 815055706 requested info
+2025-12-11 22:21:37,323 - handlers.feedback - INFO - Feedback from user 815055706: Тестовий відгук....
+2025-12-11 22:23:11,882 - TeleBot - ERROR - Infinity polling: polling exited
+2025-12-11 22:23:11,882 - TeleBot - ERROR - Break infinity polling
+2025-12-11 22:29:39,183 - __main__ - INFO - ==================================================
+2025-12-11 22:29:39,183 - __main__ - INFO - Starting YourShoes Telegram Bot
+2025-12-11 22:29:39,193 - __main__ - INFO - Database initialized successfully
+2025-12-11 22:29:39,206 - __main__ - INFO - Database is empty, seeding with sample data...
+2025-12-11 22:29:39,212 - __main__ - INFO - Added 3 sample items and 3 promo codes
+2025-12-11 22:29:39,681 - __main__ - INFO - Bot username: @shoesbuytestbot
+2025-12-11 22:29:39,681 - __main__ - INFO - Bot ID: 8438262815
+2025-12-11 22:29:39,681 - __main__ - INFO - Admins configured: 1
+2025-12-11 22:29:39,681 - __main__ - INFO - Database: sqlite:///data/shop.db
+2025-12-11 22:29:39,681 - __main__ - INFO - ==================================================
+2025-12-11 22:29:39,681 - __main__ - INFO - Registering handlers...
+2025-12-11 22:29:39,686 - __main__ - INFO - All handlers registered
+2025-12-11 22:29:39,686 - __main__ - INFO - Starting polling mode...
+2025-12-11 22:29:43,260 - handlers.catalog - INFO - User 815055706 viewing catalog (page 0)
+2025-12-11 22:29:45,661 - handlers.catalog - INFO - User 815055706 viewing product 1
+2025-12-11 22:30:04,957 - services.order_service - INFO - Order ORD-20251211-223004 created by user 815055706
+2025-12-11 22:30:13,804 - handlers.catalog - INFO - User 815055706 viewing catalog (page 0)
+2025-12-11 22:30:19,628 - handlers.catalog - INFO - User 815055706 viewing catalog (page 0)
+2025-12-11 22:30:21,152 - handlers.catalog - INFO - User 815055706 viewing product 2
+2025-12-11 22:31:04,052 - services.order_service - INFO - Order ORD-20251211-223104 created by user 815055706
+2025-12-11 22:31:19,888 - handlers.feedback - INFO - Feedback from user 815055706: Дуже гарний сервіс....
+2025-12-11 22:31:31,003 - handlers.start - INFO - User 815055706 requested info
+2025-12-11 22:31:37,517 - handlers.catalog - INFO - User 815055706 viewing catalog (page 0)
+2025-12-11 22:33:24,455 - TeleBot - ERROR - Infinity polling: polling exited
+2025-12-11 22:33:24,455 - TeleBot - ERROR - Break infinity polling
+2025-12-11 22:39:15,180 - __main__ - INFO - ==================================================
+2025-12-11 22:39:15,180 - __main__ - INFO - Starting YourShoes Telegram Bot
+2025-12-11 22:39:15,191 - __main__ - INFO - Database initialized successfully
+2025-12-11 22:39:15,205 - __main__ - INFO - Database already contains 3 items
+2025-12-11 22:39:15,897 - __main__ - INFO - Bot username: @shoesbuytestbot
+2025-12-11 22:39:15,897 - __main__ - INFO - Bot ID: 8438262815
+2025-12-11 22:39:15,897 - __main__ - INFO - Admins configured: 1
+2025-12-11 22:39:15,897 - __main__ - INFO - Database: sqlite:///data/shop.db
+2025-12-11 22:39:15,898 - __main__ - INFO - ==================================================
+2025-12-11 22:39:15,898 - __main__ - INFO - Registering handlers...
+2025-12-11 22:39:15,904 - __main__ - INFO - All handlers registered
+2025-12-11 22:39:15,904 - __main__ - INFO - Starting polling mode...
+2025-12-11 22:39:16,318 - handlers.admin - INFO - Admin 815055706 accessed admin panel
+2025-12-11 22:39:16,318 - handlers.admin - INFO - Admin 815055706 accessed admin panel
+2025-12-11 22:39:16,826 - handlers.catalog - INFO - User 815055706 viewing product 1
+2025-12-11 22:39:33,628 - handlers.admin - INFO - Admin 815055706 added promo code: 5
+2025-12-11 22:39:41,135 - handlers.admin - INFO - Admin 815055706 added promo code: 6
+2025-12-11 22:41:26,493 - handlers.admin - INFO - Admin 815055706 added item: 750SFA0077-2J9
+2025-12-11 22:41:30,406 - TeleBot - ERROR - Infinity polling exception: Instance <User at 0x1edc8bd0050> is not bound to a Session; attribute refresh operation cannot proceed (Background on this error at: https://sqlalche.me/e/20/bhk3)
+2025-12-11 22:41:30,408 - TeleBot - ERROR - Exception traceback:
+Traceback (most recent call last):
+  File "D:\пайтон\StepRightShoesBotTest2\.venv\Lib\site-packages\telebot\__init__.py", line 1110, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 logger_level=logger_level, allowed_updates=allowed_updates, restart_on_change=False,
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 *args, **kwargs)
+                 ^^^^^^^^^^^^^^^^
+  File "D:\пайтон\StepRightShoesBotTest2\.venv\Lib\site-packages\telebot\__init__.py", line 1198, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                            logger_level=logger_level, allowed_updates=allowed_updates)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\пайтон\StepRightShoesBotTest2\.venv\Lib\site-packages\telebot\__init__.py", line 1273, in __threaded_polling
+    raise e
+  File "D:\пайтон\StepRightShoesBotTest2\.venv\Lib\site-packages\telebot\__init__.py", line 1235, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\пайтон\StepRightShoesBotTest2\.venv\Lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "D:\пайтон\StepRightShoesBotTest2\.venv\Lib\site-packages\telebot\util.py", line 97, in run
+    task(*args, **kwargs)
+    ~~~~^^^^^^^^^^^^^^^^^
+  File "D:\пайтон\StepRightShoesBotTest2\.venv\Lib\site-packages\telebot\__init__.py", line 10134, in _run_middlewares_and_handler
+    result = handler['function'](message)
+  File "D:\пайтон\StepRightShoesBotTest2\handlers\admin.py", line 522, in back_wrapper
+    handle_start(message, bot)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "D:\пайтон\StepRightShoesBotTest2\handlers\start.py", line 53, in handle_start
+    logger.info(f"User {user.tg_id} started bot")
+                        ^^^^^^^^^^
+  File "D:\пайтон\StepRightShoesBotTest2\.venv\Lib\site-packages\sqlalchemy\orm\attributes.py", line 569, in __get__
+    return self.impl.get(state, dict_)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "D:\пайтон\StepRightShoesBotTest2\.venv\Lib\site-packages\sqlalchemy\orm\attributes.py", line 1096, in get
+    value = self._fire_loader_callables(state, key, passive)
+  File "D:\пайтон\StepRightShoesBotTest2\.venv\Lib\site-packages\sqlalchemy\orm\attributes.py", line 1126, in _fire_loader_callables
+    return state._load_expired(state, passive)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "D:\пайтон\StepRightShoesBotTest2\.venv\Lib\site-packages\sqlalchemy\orm\state.py", line 828, in _load_expired
+    self.manager.expired_attribute_loader(self, toload, passive)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\пайтон\StepRightShoesBotTest2\.venv\Lib\site-packages\sqlalchemy\orm\loading.py", line 1607, in load_scalar_attributes
+    raise orm_exc.DetachedInstanceError(
+    ...<2 lines>...
+    )
+sqlalchemy.orm.exc.DetachedInstanceError: Instance <User at 0x1edc8bd0050> is not bound to a Session; attribute refresh operation cannot proceed (Background on this error at: https://sqlalche.me/e/20/bhk3)
+
+2025-12-11 22:41:50,138 - handlers.catalog - INFO - User 815055706 viewing catalog (page 0)
+2025-12-11 22:41:55,268 - handlers.catalog - INFO - User 815055706 viewing product 1
+2025-12-11 22:41:59,474 - handlers.catalog - INFO - User 815055706 viewing catalog (page 0)
+2025-12-11 22:42:02,120 - handlers.catalog - INFO - User 815055706 viewing product 3
+2025-12-11 22:42:03,772 - handlers.catalog - INFO - User 815055706 viewing catalog (page 0)
+2025-12-11 22:42:04,482 - handlers.catalog - INFO - User 815055706 viewing product 4
+2025-12-11 22:42:07,004 - handlers.catalog - INFO - User 815055706 viewing catalog (page 0)
+2025-12-11 22:42:53,381 - TeleBot - ERROR - Infinity polling exception: Instance <User at 0x1edc8b5f390> is not bound to a Session; attribute refresh operation cannot proceed (Background on this error at: https://sqlalche.me/e/20/bhk3)
+2025-12-11 22:42:53,383 - TeleBot - ERROR - Exception traceback:
+Traceback (most recent call last):
+  File "D:\пайтон\StepRightShoesBotTest2\.venv\Lib\site-packages\telebot\__init__.py", line 1110, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 logger_level=logger_level, allowed_updates=allowed_updates, restart_on_change=False,
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 *args, **kwargs)
+                 ^^^^^^^^^^^^^^^^
+  File "D:\пайтон\StepRightShoesBotTest2\.venv\Lib\site-packages\telebot\__init__.py", line 1198, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                            logger_level=logger_level, allowed_updates=allowed_updates)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\пайтон\StepRightShoesBotTest2\.venv\Lib\site-packages\telebot\__init__.py", line 1273, in __threaded_polling
+    raise e
+  File "D:\пайтон\StepRightShoesBotTest2\.venv\Lib\site-packages\telebot\__init__.py", line 1235, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\пайтон\StepRightShoesBotTest2\.venv\Lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "D:\пайтон\StepRightShoesBotTest2\.venv\Lib\site-packages\telebot\util.py", line 97, in run
+    task(*args, **kwargs)
+    ~~~~^^^^^^^^^^^^^^^^^
+  File "D:\пайтон\StepRightShoesBotTest2\.venv\Lib\site-packages\telebot\__init__.py", line 10134, in _run_middlewares_and_handler
+    result = handler['function'](message)
+  File "D:\пайтон\StepRightShoesBotTest2\handlers\admin.py", line 522, in back_wrapper
+    handle_start(message, bot)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "D:\пайтон\StepRightShoesBotTest2\handlers\start.py", line 53, in handle_start
+    logger.info(f"User {user.tg_id} started bot")
+                        ^^^^^^^^^^
+  File "D:\пайтон\StepRightShoesBotTest2\.venv\Lib\site-packages\sqlalchemy\orm\attributes.py", line 569, in __get__
+    return self.impl.get(state, dict_)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "D:\пайтон\StepRightShoesBotTest2\.venv\Lib\site-packages\sqlalchemy\orm\attributes.py", line 1096, in get
+    value = self._fire_loader_callables(state, key, passive)
+  File "D:\пайтон\StepRightShoesBotTest2\.venv\Lib\site-packages\sqlalchemy\orm\attributes.py", line 1126, in _fire_loader_callables
+    return state._load_expired(state, passive)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "D:\пайтон\StepRightShoesBotTest2\.venv\Lib\site-packages\sqlalchemy\orm\state.py", line 828, in _load_expired
+    self.manager.expired_attribute_loader(self, toload, passive)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\пайтон\StepRightShoesBotTest2\.venv\Lib\site-packages\sqlalchemy\orm\loading.py", line 1607, in load_scalar_attributes
+    raise orm_exc.DetachedInstanceError(
+    ...<2 lines>...
+    )
+sqlalchemy.orm.exc.DetachedInstanceError: Instance <User at 0x1edc8b5f390> is not bound to a Session; attribute refresh operation cannot proceed (Background on this error at: https://sqlalche.me/e/20/bhk3)
+
+2025-12-11 22:45:49,400 - TeleBot - ERROR - Infinity polling: polling exited
+2025-12-11 22:45:49,400 - TeleBot - ERROR - Break infinity polling
+2025-12-11 22:50:07,311 - __main__ - INFO - ==================================================
+2025-12-11 22:50:07,311 - __main__ - INFO - Starting YourShoes Telegram Bot
+2025-12-11 22:50:07,321 - __main__ - INFO - Database initialized successfully
+2025-12-11 22:50:07,335 - __main__ - INFO - Database already contains 4 items
+2025-12-11 22:50:07,594 - __main__ - INFO - Bot username: @shoesbuytestbot
+2025-12-11 22:50:07,594 - __main__ - INFO - Bot ID: 8438262815
+2025-12-11 22:50:07,594 - __main__ - INFO - Admins configured: 1
+2025-12-11 22:50:07,595 - __main__ - INFO - Database: sqlite:///data/shop.db
+2025-12-11 22:50:07,595 - __main__ - INFO - ==================================================
+2025-12-11 22:50:07,595 - __main__ - INFO - Registering handlers...
+2025-12-11 22:50:07,608 - __main__ - INFO - All handlers registered
+2025-12-11 22:50:07,609 - __main__ - INFO - Starting polling mode...
+2025-12-11 22:50:11,100 - handlers.admin - INFO - User 815055706 pressed back button
+2025-12-11 22:50:38,928 - handlers.catalog - INFO - User 815055706 viewing catalog (page 0)
+2025-12-11 22:52:07,293 - TeleBot - ERROR - Infinity polling: polling exited
+2025-12-11 22:52:07,293 - TeleBot - ERROR - Break infinity polling
+2025-12-11 22:52:14,235 - __main__ - INFO - ==================================================
+2025-12-11 22:52:14,235 - __main__ - INFO - Starting YourShoes Telegram Bot
+2025-12-11 22:52:14,245 - __main__ - INFO - Database initialized successfully
+2025-12-11 22:52:14,257 - __main__ - INFO - Database already contains 4 items
+2025-12-11 22:52:15,144 - __main__ - INFO - Bot username: @shoesbuytestbot
+2025-12-11 22:52:15,144 - __main__ - INFO - Bot ID: 8438262815
+2025-12-11 22:52:15,144 - __main__ - INFO - Admins configured: 1
+2025-12-11 22:52:15,144 - __main__ - INFO - Database: sqlite:///data/shop.db
+2025-12-11 22:52:15,144 - __main__ - INFO - ==================================================
+2025-12-11 22:52:15,144 - __main__ - INFO - Registering handlers...
+2025-12-11 22:52:15,150 - __main__ - INFO - All handlers registered
+2025-12-11 22:52:15,150 - __main__ - INFO - Starting polling mode...
+2025-12-11 22:52:19,156 - handlers.start - INFO - User 815055706 requested info
+2025-12-11 22:52:25,072 - handlers.catalog - INFO - User 815055706 viewing catalog (page 0)
+2025-12-11 22:53:09,969 - handlers.admin - INFO - Admin 815055706 accessed admin panel
+2025-12-11 22:53:22,126 - handlers.admin - INFO - User 815055706 pressed back button
+2025-12-11 22:53:40,169 - TeleBot - ERROR - Infinity polling: polling exited
+2025-12-11 22:53:40,169 - TeleBot - ERROR - Break infinity polling
+2025-12-11 22:55:25,408 - __main__ - INFO - ==================================================
+2025-12-11 22:55:25,408 - __main__ - INFO - Starting YourShoes Telegram Bot
+2025-12-11 22:55:25,419 - __main__ - INFO - Database initialized successfully
+2025-12-11 22:55:25,433 - __main__ - INFO - Database already contains 4 items
+2025-12-11 22:55:25,789 - __main__ - INFO - Bot username: @shoesbuytestbot
+2025-12-11 22:55:25,789 - __main__ - INFO - Bot ID: 8438262815
+2025-12-11 22:55:25,789 - __main__ - INFO - Admins configured: 1
+2025-12-11 22:55:25,789 - __main__ - INFO - Database: sqlite:///data/shop.db
+2025-12-11 22:55:25,789 - __main__ - INFO - ==================================================
+2025-12-11 22:55:25,789 - __main__ - INFO - Registering handlers...
+2025-12-11 22:55:25,795 - __main__ - INFO - All handlers registered
+2025-12-11 22:55:25,795 - __main__ - INFO - Starting polling mode...
+2025-12-11 22:55:35,758 - handlers.start - INFO - User 815055706 requested info
+2025-12-11 22:55:39,315 - handlers.start - INFO - User 815055706 requested help
+2025-12-11 22:58:52,657 - handlers.catalog - INFO - User 815055706 viewing catalog (page 0)
+2025-12-11 23:00:06,740 - TeleBot - ERROR - Infinity polling: polling exited
+2025-12-11 23:00:06,740 - TeleBot - ERROR - Break infinity polling
+2025-12-11 23:00:43,843 - __main__ - INFO - ==================================================
+2025-12-11 23:00:43,843 - __main__ - INFO - Starting YourShoes Telegram Bot
+2025-12-11 23:00:43,853 - __main__ - INFO - Database initialized successfully
+2025-12-11 23:00:43,866 - __main__ - INFO - Database already contains 4 items
+2025-12-11 23:00:44,188 - __main__ - INFO - Bot username: @shoesbuytestbot
+2025-12-11 23:00:44,188 - __main__ - INFO - Bot ID: 8438262815
+2025-12-11 23:00:44,189 - __main__ - INFO - Admins configured: 1
+2025-12-11 23:00:44,189 - __main__ - INFO - Database: sqlite:///data/shop.db
+2025-12-11 23:00:44,189 - __main__ - INFO - ==================================================
+2025-12-11 23:00:44,189 - __main__ - INFO - Registering handlers...
+2025-12-11 23:00:44,195 - __main__ - INFO - All handlers registered
+2025-12-11 23:00:44,195 - __main__ - INFO - Starting polling mode...
+2025-12-11 23:08:11,031 - handlers.admin - INFO - Admin 815055706 accessed admin panel
+2025-12-11 23:22:38,733 - TeleBot - ERROR - Infinity polling: polling exited
+2025-12-11 23:22:38,733 - TeleBot - ERROR - Break infinity polling
+2025-12-11 23:28:40,421 - __main__ - INFO - ==================================================
+2025-12-11 23:28:40,421 - __main__ - INFO - Starting YourShoes Telegram Bot
+2025-12-11 23:28:40,431 - __main__ - INFO - Database initialized successfully
+2025-12-11 23:28:40,446 - __main__ - ERROR - Error seeding database: (sqlite3.IntegrityError) UNIQUE constraint failed: items.sku
+[SQL: INSERT INTO items (sku, name, description, price, sizes, images, category, created_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?) RETURNING id]
+[parameters: ('NIKE-AIR-001', 'Nike Air Max 270', 'Легкі та зручні кросівки Nike Air Max 270 з інноваційною технологією амортизації.', 2499.0, '["38", "39", "40", "41", "42", "43"]', '[]', 'men', '2025-12-11 21:28:40.446240')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-12-11 23:28:41,943 - __main__ - INFO - Bot username: @shoesbuytestbot
+2025-12-11 23:28:41,943 - __main__ - INFO - Bot ID: 8438262815
+2025-12-11 23:28:41,943 - __main__ - INFO - Admins configured: 1
+2025-12-11 23:28:41,943 - __main__ - INFO - Database: sqlite:///data/shop.db
+2025-12-11 23:28:41,943 - __main__ - INFO - ==================================================
+2025-12-11 23:28:41,943 - __main__ - INFO - Registering handlers...
+2025-12-11 23:28:41,955 - __main__ - INFO - All handlers registered
+2025-12-11 23:28:41,955 - __main__ - INFO - Starting polling mode...
+2025-12-11 23:28:50,915 - handlers.admin - INFO - User 815055706 pressed back button
+2025-12-11 23:28:55,063 - handlers.catalog - INFO - User 815055706 viewing catalog (page 0)
+2025-12-11 23:29:01,998 - handlers.start - INFO - User 815055706 requested info
+2025-12-11 23:29:07,571 - handlers.admin - INFO - Admin 815055706 accessed admin panel
+2025-12-11 23:29:22,075 - handlers.promo - INFO - User 815055706 viewed promo codes
+2025-12-11 23:29:31,700 - handlers.catalog - INFO - User 815055706 viewing catalog (page 0)
+2025-12-11 23:29:32,776 - handlers.catalog - INFO - User 815055706 viewing product 2
+2025-12-11 23:29:44,437 - services.order_service - INFO - Order ORD-20251211-232944 created by user 815055706
+2025-12-11 23:30:24,203 - handlers.feedback - INFO - Feedback from user 815055706: test review...
+2025-12-11 23:31:40,586 - handlers.admin - INFO - Admin 815055706 accessed admin panel
+2025-12-11 23:32:05,015 - handlers.admin - INFO - User 815055706 pressed back button
+2025-12-11 23:32:05,971 - handlers.catalog - INFO - User 815055706 viewing catalog (page 0)
+2025-12-11 23:33:52,468 - TeleBot - ERROR - Infinity polling: polling exited
+2025-12-11 23:33:52,468 - TeleBot - ERROR - Break infinity polling
+2025-12-11 23:37:27,170 - __main__ - INFO - ==================================================
+2025-12-11 23:37:27,170 - __main__ - INFO - Starting YourShoes Telegram Bot
+2025-12-11 23:37:27,181 - __main__ - INFO - Database initialized successfully
+2025-12-11 23:37:27,195 - __main__ - INFO - Database already contains 27 items, skipping seed
+2025-12-11 23:37:27,983 - __main__ - INFO - Bot username: @shoesbuytestbot
+2025-12-11 23:37:27,983 - __main__ - INFO - Bot ID: 8438262815
+2025-12-11 23:37:27,983 - __main__ - INFO - Admins configured: 1
+2025-12-11 23:37:27,983 - __main__ - INFO - Database: sqlite:///data/shop.db
+2025-12-11 23:37:27,983 - __main__ - INFO - ==================================================
+2025-12-11 23:37:27,983 - __main__ - INFO - Registering handlers...
+2025-12-11 23:37:27,990 - __main__ - INFO - All handlers registered
+2025-12-11 23:37:27,990 - __main__ - INFO - Starting polling mode...
+2025-12-11 23:37:35,001 - handlers.catalog - INFO - User 815055706 viewing catalog (page 0)
+2025-12-11 23:37:40,538 - handlers.catalog - INFO - User 815055706 viewing product 13
+2025-12-11 23:37:58,700 - services.order_service - INFO - Order ORD-20251211-233758 created by user 815055706
+2025-12-11 23:38:23,845 - handlers.start - INFO - User 815055706 requested help
+2025-12-11 23:38:41,363 - handlers.promo - INFO - User 815055706 viewed promo codes
+2025-12-11 23:39:00,531 - handlers.admin - INFO - Admin 815055706 accessed admin panel
+2025-12-11 23:53:13,909 - TeleBot - ERROR - Infinity polling: polling exited
+2025-12-11 23:53:13,909 - TeleBot - ERROR - Break infinity polling
+2025-12-11 23:53:45,191 - __main__ - INFO - ==================================================
+2025-12-11 23:53:45,192 - __main__ - INFO - Starting YourShoes Telegram Bot
+2025-12-11 23:53:45,202 - __main__ - INFO - Database initialized successfully
+2025-12-11 23:53:45,216 - __main__ - INFO - Database already contains 27 items, skipping seed
+2025-12-11 23:53:45,508 - __main__ - INFO - Bot username: @shoesbuytestbot
+2025-12-11 23:53:45,508 - __main__ - INFO - Bot ID: 8438262815
+2025-12-11 23:53:45,508 - __main__ - INFO - Admins configured: 1
+2025-12-11 23:53:45,508 - __main__ - INFO - Database: sqlite:///data/shop.db
+2025-12-11 23:53:45,508 - __main__ - INFO - ==================================================
+2025-12-11 23:53:45,508 - __main__ - INFO - Registering handlers...
+2025-12-11 23:53:45,524 - __main__ - INFO - All handlers registered
+2025-12-11 23:53:45,524 - __main__ - INFO - Starting polling mode...
+2025-12-11 23:53:48,662 - handlers.admin - INFO - User 815055706 pressed back button
+2025-12-11 23:53:53,830 - handlers.admin - INFO - Admin 815055706 accessed admin panel
+2025-12-11 23:53:57,650 - handlers.admin - INFO - Admin 815055706 viewing orders, status filter: Перегляд
+2025-12-11 23:54:12,695 - TeleBot - ERROR - Infinity polling: polling exited
+2025-12-11 23:54:12,696 - TeleBot - ERROR - Break infinity polling
+2025-12-11 23:54:49,005 - __main__ - INFO - ==================================================
+2025-12-11 23:54:49,005 - __main__ - INFO - Starting YourShoes Telegram Bot
+2025-12-11 23:54:49,016 - __main__ - INFO - Database initialized successfully
+2025-12-11 23:54:49,031 - __main__ - INFO - Database already contains 27 items, skipping seed
+2025-12-11 23:54:49,829 - __main__ - INFO - Bot username: @shoesbuytestbot
+2025-12-11 23:54:49,829 - __main__ - INFO - Bot ID: 8438262815
+2025-12-11 23:54:49,829 - __main__ - INFO - Admins configured: 1
+2025-12-11 23:54:49,829 - __main__ - INFO - Database: sqlite:///data/shop.db
+2025-12-11 23:54:49,829 - __main__ - INFO - ==================================================
+2025-12-11 23:54:49,829 - __main__ - INFO - Registering handlers...
+2025-12-11 23:54:49,836 - __main__ - INFO - All handlers registered
+2025-12-11 23:54:49,836 - __main__ - INFO - Starting polling mode...
+2025-12-11 23:54:54,457 - handlers.admin - INFO - Admin 815055706 viewing orders, status filter: None
+2025-12-11 23:54:54,460 - handlers.admin - INFO - Found 4 orders
+2025-12-11 23:56:21,935 - handlers.start - INFO - User 815055706 requested help
+2025-12-11 23:56:25,189 - handlers.admin - INFO - Admin 815055706 viewing orders, status filter: None
+2025-12-11 23:56:25,192 - handlers.admin - INFO - Found 4 orders
+2025-12-11 23:56:42,710 - handlers.admin - INFO - Admin 815055706 viewing orders, status filter: Перегляд
+2025-12-11 23:58:34,082 - handlers.admin - INFO - Admin 815055706 viewing orders, status filter: Перегляд
+2025-12-11 23:58:37,091 - TeleBot - ERROR - Infinity polling: polling exited
+2025-12-11 23:58:37,091 - TeleBot - ERROR - Break infinity polling
+2025-12-12 00:00:43,137 - __main__ - INFO - ==================================================
+2025-12-12 00:00:43,137 - __main__ - INFO - Starting YourShoes Telegram Bot
+2025-12-12 00:00:43,148 - __main__ - INFO - Database initialized successfully
+2025-12-12 00:00:43,162 - __main__ - INFO - Database already contains 27 items, skipping seed
+2025-12-12 00:00:43,436 - __main__ - INFO - Bot username: @shoesbuytestbot
+2025-12-12 00:00:43,436 - __main__ - INFO - Bot ID: 8438262815
+2025-12-12 00:00:43,436 - __main__ - INFO - Admins configured: 1
+2025-12-12 00:00:43,436 - __main__ - INFO - Database: sqlite:///data/shop.db
+2025-12-12 00:00:43,436 - __main__ - INFO - ==================================================
+2025-12-12 00:00:43,436 - __main__ - INFO - Registering handlers...
+2025-12-12 00:00:43,448 - __main__ - INFO - All handlers registered
+2025-12-12 00:00:43,448 - __main__ - INFO - Starting polling mode...
+2025-12-12 00:01:59,955 - handlers.admin - INFO - User 815055706 pressed back button
+2025-12-12 00:02:18,127 - handlers.admin - INFO - Admin 815055706 accessed admin panel
+2025-12-12 00:02:28,372 - handlers.admin - INFO - User 815055706 pressed back button
+2025-12-12 00:02:38,607 - handlers.admin - INFO - Admin 815055706 viewing orders, status filter: None
+2025-12-12 00:02:38,609 - handlers.admin - INFO - Found 4 orders
+2025-12-12 00:03:43,259 - handlers.admin - INFO - Admin 815055706 accessed admin panel
+2025-12-12 00:03:55,572 - TeleBot - ERROR - Infinity polling: polling exited
+2025-12-12 00:03:55,572 - TeleBot - ERROR - Break infinity polling
+2025-12-12 00:04:07,593 - __main__ - INFO - ==================================================
+2025-12-12 00:04:07,594 - __main__ - INFO - Starting YourShoes Telegram Bot
+2025-12-12 00:04:07,604 - __main__ - INFO - Database initialized successfully
+2025-12-12 00:04:07,617 - __main__ - INFO - Database already contains 27 items, skipping seed
+2025-12-12 00:04:12,598 - __main__ - INFO - Bot username: @shoesbuytestbot
+2025-12-12 00:04:12,598 - __main__ - INFO - Bot ID: 8438262815
+2025-12-12 00:04:12,598 - __main__ - INFO - Admins configured: 1
+2025-12-12 00:04:12,599 - __main__ - INFO - Database: sqlite:///data/shop.db
+2025-12-12 00:04:12,599 - __main__ - INFO - ==================================================
+2025-12-12 00:04:12,599 - __main__ - INFO - Registering handlers...
+2025-12-12 00:04:12,617 - __main__ - INFO - All handlers registered
+2025-12-12 00:04:12,617 - __main__ - INFO - Starting polling mode...
+2025-12-12 00:04:17,674 - handlers.admin - INFO - Admin 815055706 viewing orders, status filter: Перегляд
+2025-12-12 00:09:09,010 - TeleBot - ERROR - Infinity polling: polling exited
+2025-12-12 00:09:09,010 - TeleBot - ERROR - Break infinity polling
+2025-12-12 00:10:43,065 - __main__ - INFO - ==================================================
+2025-12-12 00:10:43,066 - __main__ - INFO - Starting YourShoes Telegram Bot
+2025-12-12 00:10:43,077 - __main__ - INFO - Database initialized successfully
+2025-12-12 00:10:43,090 - __main__ - INFO - Database already contains 27 items, skipping seed
+2025-12-12 00:10:43,612 - __main__ - INFO - Bot username: @shoesbuytestbot
+2025-12-12 00:10:43,612 - __main__ - INFO - Bot ID: 8438262815
+2025-12-12 00:10:43,612 - __main__ - INFO - Admins configured: 1
+2025-12-12 00:10:43,612 - __main__ - INFO - Database: sqlite:///data/shop.db
+2025-12-12 00:10:43,613 - __main__ - INFO - ==================================================
+2025-12-12 00:10:43,613 - __main__ - INFO - Registering handlers...
+2025-12-12 00:10:43,626 - __main__ - INFO - All handlers registered
+2025-12-12 00:10:43,626 - __main__ - INFO - Starting polling mode...
+2025-12-12 00:10:45,685 - handlers.admin - INFO - Admin 815055706 viewing orders, status filter: None, from button: True
+2025-12-12 00:10:45,690 - handlers.admin - INFO - Found 4 orders
+2025-12-12 00:10:56,471 - handlers.admin - INFO - User 815055706 pressed back button
+2025-12-12 00:12:51,854 - TeleBot - ERROR - Infinity polling: polling exited
+2025-12-12 00:12:51,854 - TeleBot - ERROR - Break infinity polling
+2025-12-12 00:12:53,464 - __main__ - INFO - ==================================================
+2025-12-12 00:12:53,464 - __main__ - INFO - Starting YourShoes Telegram Bot
+2025-12-12 00:12:53,474 - __main__ - INFO - Database initialized successfully
+2025-12-12 00:12:53,488 - __main__ - INFO - Database already contains 27 items, skipping seed
+2025-12-12 00:12:54,033 - __main__ - INFO - Bot username: @shoesbuytestbot
+2025-12-12 00:12:54,033 - __main__ - INFO - Bot ID: 8438262815
+2025-12-12 00:12:54,033 - __main__ - INFO - Admins configured: 1
+2025-12-12 00:12:54,033 - __main__ - INFO - Database: sqlite:///data/shop.db
+2025-12-12 00:12:54,033 - __main__ - INFO - ==================================================
+2025-12-12 00:12:54,033 - __main__ - INFO - Registering handlers...
+2025-12-12 00:12:54,041 - __main__ - INFO - All handlers registered
+2025-12-12 00:12:54,041 - __main__ - INFO - Starting polling mode...
+2025-12-12 00:12:56,910 - handlers.start - INFO - User 815055706 requested info
+2025-12-12 00:13:46,948 - TeleBot - ERROR - Infinity polling: polling exited
+2025-12-12 00:13:46,948 - TeleBot - ERROR - Break infinity polling
